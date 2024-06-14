@@ -1,13 +1,13 @@
 seq_run	ID_NGS	ID_sample	disease_status	details	cohort
-A109	A1097T01	061_DAB	non-tumoral		validation
-A109	A1097T02	071_POJ	adenome		validation
-A109	A1097T03	072_073	non-tumoral		validation
-A109	A1097T05	078_DEC	non-tumoral		validation
-A109	A1097T06	080_ANT	cancer		validation
-A109	A1097T08	084_IGN	cancer		validation
-A109	A1097T09	085_BEN	cancer		validation
-A109	A1097T10	086_ALV	non-tumoral		validation
-A109	A1097T11	090_PER	cancer		validation
+A1097	A1097T01	061_DAB	non-tumoral		validation
+A1097	A1097T02	071_POJ	adenome		validation
+A1097	A1097T03	072_073	non-tumoral		validation
+A1097	A1097T05	078_DEC	non-tumoral		validation
+A1097	A1097T06	080_ANT	cancer		validation
+A1097	A1097T08	084_IGN	cancer		validation
+A1097	A1097T09	085_BEN	cancer		validation
+A1097	A1097T10	086_ALV	non-tumoral		validation
+A1097	A1097T11	090_PER	cancer		validation
 D1271	D1271T01	123-001	healthy		discovery
 D1271	D1271T02	123-004	healthy		discovery
 D1271	D1271T03	123-005	healthy		discovery
