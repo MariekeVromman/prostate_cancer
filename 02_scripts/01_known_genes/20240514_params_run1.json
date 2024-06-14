@@ -1,0 +1,9 @@
+{
+    "in_reads" : "/data/kdi_prod/dataset_all/2018927/export/user/*/*.R{1,2}.fastq.gz",
+    "out_dir" : "/data/tmp/mvromman/20240514_prostate/lin/run1",
+
+    "star_index" : "/data/tmp/mvromman/20240514_prostate/references/STAR_index",
+    "ref_gtf" : "/data/tmp/mvromman/20240514_prostate/references/gencode.v44.chr_patch_hapl_scaff.annotation.gtf",
+
+    "featureCounts_strand" : "2"
+}

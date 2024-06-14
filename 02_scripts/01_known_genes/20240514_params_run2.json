@@ -1,0 +1,9 @@
+{
+    "in_reads" : "/data/kdi_prod/dataset_all/2016821/export/user/{D1271T01,D1271T02,D1271T03,D1271T04,D1271T05,D1271T06,D1271T07,D1271T08,D1271T09,D1271T10,D1271T11,D1271T12,D1271T13,D1271T14,D1271T15,D1271T17,D1271T18,D1271T19,D1271T21,D1271T22,D1271T23,D1271T24,D1271T25,D1271T26,D1271T28,D1271T29,D1271T30,D1271T31,D1271T32,D1271T33,D1271T34,D1271T35,D1271T36,D1271T37,D1271T38,D1271T39,D1271T40,D1271T41,D1271T42,D1271T43,D1271T44,D1271T45,D1271T46}/*.R{1,2}.fastq.gz",
+    "out_dir" : "/data/tmp/mvromman/20240514_prostate/lin/run2",
+
+    "star_index" : "/data/tmp/mvromman/20240514_prostate/references/STAR_index",
+    "ref_gtf" : "/data/tmp/mvromman/20240514_prostate/references/gencode.v44.chr_patch_hapl_scaff.annotation.gtf",
+
+    "featureCounts_strand" : "2"
+}

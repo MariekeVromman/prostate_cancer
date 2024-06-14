@@ -1,0 +1,285 @@
+seq_run	ID_NGS	ID_sample	disease_status	details	cohort
+A109	A1097T01	061_DAB	non-tumoral		validation
+A109	A1097T02	071_POJ	adenome		validation
+A109	A1097T03	072_073	non-tumoral		validation
+A109	A1097T05	078_DEC	non-tumoral		validation
+A109	A1097T06	080_ANT	cancer		validation
+A109	A1097T08	084_IGN	cancer		validation
+A109	A1097T09	085_BEN	cancer		validation
+A109	A1097T10	086_ALV	non-tumoral		validation
+A109	A1097T11	090_PER	cancer		validation
+D1271	D1271T01	123-001	healthy		discovery
+D1271	D1271T02	123-004	healthy		discovery
+D1271	D1271T03	123-005	healthy		discovery
+D1271	D1271T04	123-007	healthy		discovery
+D1271	D1271T05	123-013	healthy		discovery
+D1271	D1271T06	123-014	healthy		discovery
+D1271	D1271T07	025-007	hyperplasia		discovery
+D1271	D1271T08	025-001	cancer		discovery
+D1271	D1271T09	123-015	healthy		discovery
+D1271	D1271T10	123-016	healthy		discovery
+D1271	D1271T11	123-018	healthy		discovery
+D1271	D1271T12	123-019	healthy		discovery
+D1271	D1271T13	123-020	healthy		discovery
+D1271	D1271T14	123-027	healthy		discovery
+D1271	D1271T15	025-002	cancer		discovery
+D1271	D1271T17	123-032	healthy		discovery
+D1271	D1271T18	123-033	healthy		discovery
+D1271	D1271T19	123-034	healthy		discovery
+D1271	D1271T21	123-003	healthy		discovery
+D1271	D1271T22	123-006	healthy		discovery
+D1271	D1271T23	025-004	cancer		discovery
+D1271	D1271T24	025-005	hyperplasia		discovery
+D1271	D1271T25	123-009	healthy		discovery
+D1271	D1271T26	123-010	healthy		discovery
+D1271	D1271T28	123-021	healthy		discovery
+D1271	D1271T29	123-022	healthy		discovery
+D1271	D1271T30	123-023	healthy		discovery
+D1271	D1271T31	025-006	cancer		discovery
+D1271	D1271T32	025-008	hyperplasia		discovery
+D1271	D1271T33	123-024	healthy		discovery
+D1271	D1271T34	123-025	healthy		discovery
+D1271	D1271T35	123-026	healthy		discovery
+D1271	D1271T36	123-028	healthy		discovery
+D1271	D1271T37	123-029	healthy		discovery
+D1271	D1271T38	123-030	healthy		discovery
+D1271	D1271T39	123-031	healthy		discovery
+D1271	D1271T40	025-009	hyperplasia		discovery
+D1271	D1271T41	exo_251_BOK	non-tumoral		validation
+D1271	D1271T42	exo_252_DEB	cancer		validation
+D1271	D1271T43	exo_253_LAU	cancer		validation
+D1271	D1271T44	exo_254_PLA	non-tumoral		validation
+D1271	D1271T45	exo_259_DEM	cancer		validation
+D1271	D1271T46	exo_264_SEL	cancer		validation
+D1745	D1745T250	uEV_267	non-tumoral		validation
+D1745	D1745T251	uEV_269	cancer		validation
+D1745	D1745T252	025-10	cancer		discovery
+D1745	D1745T253	025-11	cancer		discovery
+D1745	D1745T254	025-17	cancer		discovery
+D1745	D1745T255	025-24	hyperplasia		discovery
+D1745	D1745T256	081-01	cancer		discovery
+D1745	D1745T257	081-03	unknown	Cancer (plutôt hyperplasie) à vérifier	discovery
+D1745	D1745T258	081-04	cancer		discovery
+D1745	D1745T259	081-05	cancer		discovery
+D1745	D1745T260	081-06	cancer		discovery
+D1745	D1745T261	081-07	unknown	Cancer (plutôt hyperplasie) à vérifier	discovery
+D1745	D1745T262	081-09	cancer		discovery
+D1745	D1745T263	081-10	unknown	Cancer (plutôt hyperplasie) à vérifier	discovery
+D1745	D1745T264	081-11	unknown	Cancer (plutôt hyperplasie) à vérifier	discovery
+D1745	D1745T265	123-007	healthy		discovery
+D1745	D1745T266	123-013	healthy		discovery
+D1745	D1745T267	123-015	healthy		discovery
+D1745	D1745T268	123-016	healthy		discovery
+D1745	D1745T269	123-027	healthy		discovery
+D1745	D1745T271	123-038	healthy		discovery
+D1745	D1745T272	025-12	cancer		discovery
+D1745	D1745T273	025-13	cancer		discovery
+D1745	D1745T274	025-14	cancer		discovery
+D1745	D1745T275	025-15	cancer		discovery
+D1745	D1745T276	025-16	cancer		discovery
+D1745	D1745T277	025-19	cancer		discovery
+D1745	D1745T278	025-20	cancer		discovery
+D1745	D1745T279	025-21	cancer		discovery
+D1745	D1745T280	025-22	hyperplasia		discovery
+D1745	D1745T281	025-25	hyperplasia		discovery
+D1745	D1745T282	025-26	hyperplasia		discovery
+D1745	D1745T283	025-27	hyperplasia		discovery
+D1745	D1745T284	025-28	hypertrophie		discovery
+D1745	D1745T285	025-29	cancer		discovery
+D1745	D1745T286	025-31	cancer		discovery
+D1745	D1745T287	081-02	hyperplasia		discovery
+D1745	D1745T288	081-08	cancer		discovery
+D1745	D1745T289	123-010	healthy		discovery
+D1745	D1745T291	123-014	healthy		discovery
+D1745	D1745T292	123-029	healthy		discovery
+D1745	D1745T293	123-036	healthy		discovery
+D1745	D1745T294	123-037	healthy		discovery
+D1745	D1745T295	uEV_256	cancer		validation
+D1745	D1745T296	uEV_275	cancer		validation
+D1745	D1745T297	uEV_260	cancer		validation
+D1745	D1745T298	uEV_265	cancer		validation
+D1745	D1745T299	uEV_205	cancer		validation
+D1745	D1745T300	uEV_257	cancer		validation
+D1745	D1745T301	uEV_258	cancer		validation
+D1745	D1745T302	uEV_263	non-tumoral		validation
+D1745	D1745T303	025-30	hyperplasia		discovery
+D1745	D1745T304	025-23	hyperplasia		discovery
+D1745	D1745T305	025-18	hyperplasia		discovery
+D268	D268T01	091_GAI	cancer		validation
+D268	D268T02	106_NGU	cancer		validation
+D268	D268T03	118_MOR	cancer		validation
+D268	D268T04	131_CON	cancer		validation
+D268	D268T05	145_EYO	non-tumoral		validation
+D268	D268T06	159_HER	cancer		validation
+D268	D268T07	171_SYL	cancer		validation
+D268	D268T09	092_HEN	cancer		validation
+D268	D268T10	107_GUI	cancer		validation
+D268	D268T11	119_AZA	non-tumoral		validation
+D268	D268T12	132_HER	cancer		validation
+D268	D268T13	147_BRA	cancer		validation
+D268	D268T14	160_PAR	hyperplasia		validation
+D268	D268T15	172_CHK	non-tumoral		validation
+D268	D268T17	093_MEK	cancer		validation
+D268	D268T18	108_DUN	cancer		validation
+D268	D268T19	120_IBE	cancer		validation
+D268	D268T20	133_PAP	cancer		validation
+D268	D268T21	148_RUI	cancer		validation
+D268	D268T22	161_WAN	cancer		validation
+D268	D268T23	173_PER	cancer		validation
+D268	D268T25	094_LAB	cancer		validation
+D268	D268T26	109_CHA	hyperplasia		validation
+D268	D268T27	121_MAU	unknown	cancer LR à la biopsie (mais ? dans les tableaux cliniques)	validation
+D268	D268T28	134_AHS	cancer		validation
+D268	D268T29	149_LAG	unknown	adénome ?	validation
+D268	D268T30	162_GON	non-tumoral		validation
+D268	D268T31	174_CHA	cancer		validation
+D268	D268T33	095_BOU	unknown	probablement hyperplasie non biopsié	validation
+D268	D268T34	110_LAV	cancer		validation
+D268	D268T35	122_LEL	non-tumoral		validation
+D268	D268T36	135_SUI	cancer		validation
+D268	D268T37	150_FOR	non-tumoral		validation
+D268	D268T38	163_CHE	hyperplasia		validation
+D268	D268T39	175_SIM	non-tumoral	non cancereux (trouble mictionnel)	validation
+D268	D268T41	096_LEJ	unknown	non trouvé	validation
+D268	D268T42	111_HAD	unknown	empty field	validation
+D268	D268T43	123_GOU	non-tumoral		validation
+D268	D268T44	136_PUA	unknown	cancer? IRM biopsies non faites	validation
+D268	D268T45	151_BOU	cancer		validation
+D268	D268T46	164_SIM	non-tumoral		validation
+D268	D268T47	176_BOU	non-tumoral	non cancereux (trouble mictionnel)	validation
+D268	D268T49	098_HAM	non-tumoral		validation
+D268	D268T50	112_VAU	non-tumoral		validation
+D268	D268T51	124_BAZ	cancer		validation
+D268	D268T52	137_EST	non-tumoral	non tumoral PIN?	validation
+D268	D268T53	152_PER	cancer		validation
+D268	D268T54	165_FAU	unknown		validation
+D268	D268T55	177_DOR	non-tumoral		validation
+D268	D268T57	099_LAH	cancer		validation
+D268	D268T58	113_BAD	unknown		validation
+D268	D268T59	125_LAT	cancer		validation
+D268	D268T60	138_MAC	cancer		validation
+D268	D268T61	154_BRU	non-tumoral		validation
+D268	D268T62	166_DES	non-tumoral		validation
+D268	D268T63	178_BOU	cancer		validation
+D268	D268T65	100_BES	cancer		validation
+D268	D268T66	114_DOS	unknown		validation
+D268	D268T67	126_TRO	cancer		validation
+D268	D268T68	139_AUG	non-tumoral		validation
+D268	D268T69	155_BOU	cancer		validation
+D268	D268T70	167_LOP	non-tumoral		validation
+D268	D268T71	179_CHE	cancer		validation
+D268	D268T73	101_RIG	unknown	non trouvé	validation
+D268	D268T74	115_AIS	non-tumoral		validation
+D268	D268T75	127_POL	cancer		validation
+D268	D268T76	141_DAV	non-tumoral		validation
+D268	D268T77	156_GOR	cancer		validation
+D268	D268T78	168_LAG	non-tumoral		validation
+D268	D268T79	180_CAR	unknown	suspicion de cancer biopsie non effectuée	validation
+D268	D268T81	102_SCH	cancer		validation
+D268	D268T82	116_DEN	cancer		validation
+D268	D268T83	129_GUI	non-tumoral		validation
+D268	D268T84	142_TAR	cancer		validation
+D268	D268T85	157_BEN	hyperplasia		validation
+D268	D268T86	169_DUB	cancer		validation
+D268	D268T87	181_HAM	cancer		validation
+D268	D268T89	105_CAB	cancer		validation
+D268	D268T90	117_ISS	non-tumoral		validation
+D268	D268T91	130_LEC	cancer		validation
+D268	D268T92	144_WAL	cancer		validation
+D268	D268T94	170_HAN	cancer		validation
+D419-D410-D376	D419-D410-D376T01	F2_ENC	cancer		validation
+D419-D410-D376	D419-D410-D376T02	F3_TAL	cancer		validation
+D419-D410-D376	D419-D410-D376T03	F4_PIN	cancer		validation
+D419-D410-D376	D419-D410-D376T04	F5_BOU	cancer		validation
+D419-D410-D376	D419-D410-D376T05	F6_SAL	cancer		validation
+D419-D410-D376	D419-D410-D376T06	F8_KAR	cancer		validation
+D419-D410-D376	D419-D410-D376T07	F9_RAD	cancer		validation
+D419-D410-D376	D419-D410-D376T08	F10_MES	cancer		validation
+D419-D410-D376	D419-D410-D376T09	F11_ZIZ	cancer		validation
+D419-D410-D376	D419-D410-D376T10	F12_ABE	cancer		validation
+D419-D410-D376	D419-D410-D376T11	F13_AUR	cancer		validation
+D419-D410-D376	D419-D410-D376T12	F14_RIV	cancer		validation
+D419-D410-D376	D419-D410-D376T13	F16_GEN	cancer		validation
+D419-D410-D376	D419-D410-D376T14	F17_TRA	cancer		validation
+D419-D410-D376	D419-D410-D376T15	F18_THE	cancer		validation
+D419-D410-D376	D419-D410-D376T16	F19_TIX	cancer		validation
+D419-D410-D376	D419-D410-D376T17	F20_THA	cancer		validation
+D419-D410-D376	D419-D410-D376T18	F21_BEN	cancer		validation
+D577	D577T001	182_CAR	non-tumoral	non cancereux (trouble mictionnel)	validation
+D577	D577T002	183_DES	cancer		validation
+D577	D577T003	184_REM	prostatitis	prostatite	validation
+D577	D577T004	185_LAM	cancer		validation
+D577	D577T005	187_CHA	non-tumoral		validation
+D577	D577T006	188_DRU	cancer		validation
+D577	D577T007	190_LOG	non-tumoral		validation
+D577	D577T008	191_MAR	non-tumoral		validation
+D577	D577T009	193_MUS	non-tumoral		validation
+D577	D577T010	194_MAS	unknown	empty field	validation
+D577	D577T011	195_ROD	unknown	en attente	validation
+D577	D577T012	196_BOU	cancer		validation
+D577	D577T013	197_EBE	unknown	non trouvé	validation
+D577	D577T014	198_CHE	non-tumoral		validation
+D577	D577T015	199_DJE	cancer		validation
+D577	D577T016	200_KOP	non-tumoral		validation
+D577	D577T017	201_LED	cancer		validation
+D577	D577T018	202_ZAI	unknown	non trouvé	validation
+D577	D577T019	203_LAC	non-tumoral		validation
+D577	D577T020	204_BOI	cancer		validation
+D577	D577T021	206_GRE	non-tumoral		validation
+D577	D577T022	207_LEC	non-tumoral		validation
+D577	D577T023	209_RAM	cancer		validation
+D577	D577T024	211_BAR	cancer		validation
+D577	D577T025	212_DUF	cancer		validation
+D577	D577T026	213_CHE	non-tumoral		validation
+D577	D577T027	214_PAG	cancer		validation
+D577	D577T028	215_BON	hyperplasia		validation
+D577	D577T029	216_DEM	non-tumoral		validation
+D577	D577T030	217_DUR	cancer		validation
+D577	D577T031	218_LEQ	non-tumoral		validation
+D577	D577T032	219_POR	non-tumoral		validation
+D577	D577T033	220_LEC	non-tumoral		validation
+D577	D577T034	222_PET	hyperplasia		validation
+D577	D577T035	223_SMA	cancer		validation
+D577	D577T036	224_MAT	cancer		validation
+D577	D577T037	226_BES	unknown	? (probablement non)	validation
+D577	D577T038	227_BEN	unknown	non trouvé	validation
+D577	D577T039	228_GHO	cancer		validation
+D577	D577T040	229_DEW	cancer		validation
+D577	D577T041	230_MOU	cancer		validation
+D577	D577T042	232_MAT	non-tumoral		validation
+D577	D577T043	233_KIM	cancer		validation
+D577	D577T044	234_BLO	non-tumoral		validation
+D577	D577T045	235_DUR	cancer		validation
+D577	D577T046	236_MAS	non-tumoral		validation
+D577	D577T047	237_NHA	cancer		validation
+D577	D577T048	238_NAR	cancer		validation
+D577	D577T049	239_BOI	cancer		validation
+D577	D577T050	240_SAR	non-tumoral		validation
+D577	D577T051	241_CAS	non-tumoral		validation
+D577	D577T052	242_CHE	non-tumoral		validation
+D577	D577T053	243_HAN	non-tumoral		validation
+D623	D623T01	244_SER	cancer		validation
+D623	D623T02	245_LOP	unknown	 non trouvé	validation
+D623	D623T03	246_COR	non-tumoral		validation
+D623	D623T04	247_MOR	cancer		validation
+D623	D623T05	248_CAV	cancer		validation
+D623	D623T06	249_ROD	cancer		validation
+D623	D623T07	250_BOU	cancer		validation
+D623	D623T23	cEV_PC_1		cell_EVs PC3_réplicat_1	cell_line
+D623	D623T24	cEV_PC_2		cell_EVs PC3_réplicat_2	cell_line
+D623	D623T25	cEV_PC_3		cell_EVs PC3_réplicat_3	cell_line
+D623	D623T26	cEV_DU_1		cell_EVs_DU145_réplicat_1	cell_line
+D623	D623T27	cEV_DU_2		cell_EVs DU145_réplicat_2	cell_line
+D623	D623T28	cEV_DU_3		cell_EVs DU145_réplicat_3	cell_line
+D623	D623T29	cEV_LN_1		cell_EVs LNCaP_1	cell_line
+D623	D623T30	cEV_LN_2		cell_EVs LNCaP_2	cell_line
+D623	D623T31	cEV_LN_3		cell_EVs LNCaP_3	cell_line
+D623	D623T32	CL_PC_1		lignée cellulaire PC3_réplicat_1	cell_line
+D623	D623T33	CL_PC_2		lignée cellulaire PC3_réplicat_2	cell_line
+D623	D623T34	CL_PC_3		lignée cellulaire PC3_réplicat_3	cell_line
+D623	D623T35	CL_DU_1		lignée cellulaire DU145_réplicat_1	cell_line
+D623	D623T36	CL_DU_2		lignée cellulaire DU145_réplicat_2	cell_line
+D623	D623T37	CL_DU_3		lignée cellulaire DU145_réplicat_3	cell_line
+D623	D623T38	CL_LN_1		lignée cellulaire LNCaP_1	cell_line
+D623	D623T39	CL_LN_2		lignée cellulaire LNCaP_2	cell_line
+D623	D623T40	CL_LN_3		lignée cellulaire LNCaP_3	cell_line

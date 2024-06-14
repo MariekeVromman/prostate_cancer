@@ -1,0 +1,18 @@
+{
+    "input": "/data/tmp/mvromman/20240610_run2/03_circ_samplesheet.csv",
+    "outdir": "/data/tmp/mvromman/20240610_run2/circ",
+
+    "tool": "circexplorer2,find_circ,circrna_finder,ciriquant",
+    "module": "circrna_discovery",
+    "bsj_reads": 0,
+    "tool_filter": 0,
+
+    "skip_trimming": false,
+
+    "igenomes_ignore": true,
+    "fasta": "/data/tmp/mvromman/20240610_run2/references/GRCh38.p14.genome.fa",
+    "gtf": "/data/tmp/mvromman/20240610_run2/references/gencode.v44.chr_patch_hapl_scaff.annotation.gtf",
+    "limitSjdbInsertNsj": 10000000
+  }
+
+
