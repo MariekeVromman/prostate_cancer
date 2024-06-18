@@ -31,7 +31,7 @@ This repository contains 4 folders
 This folders contains the output data from mapping the fastq files with STAR and generating counts with FeatureCounts, and the output data from running the circRNA pipeline. As this is a big folder, it is not included in the github repo itself, but it is present on the hard disk. 
 
 2. **scripts**  
-This folder contains al scripts used on the cluster to generate the data in the `data` folder.
+This folder contains al scripts used on the cluster to run the pipeline to generate the data in the `data` folder. The pipelines are stored in a separate GitHub repo: [RNA_seq](https://github.com/MariekeVromman/RNA_seq).
   
     - first, the scripts to download the references, to download the data and to merge two sequencing runs (see warning above).
     - then, the scripts to run run `STAR` and `FeatureCounts` were run to generate counts for each sample
