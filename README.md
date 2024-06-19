@@ -36,6 +36,7 @@ This folder contains al scripts used on the cluster to run the pipeline to gener
     - first, the scripts to download the references, to download the data and to merge two sequencing runs (see warning above).
     - then, the scripts to run run `STAR` and `FeatureCounts` were run to generate counts for each sample
     - also, the script to detect circRNAs using the nf-core [circRNA pipeline](https://github.com/nf-core/circrna).
+      - There is already a nextflow version on the cluster, up it is not kept up to date. To install your own version of nextflow, follow these [instructions](https://www.nextflow.io/docs/latest/install.html) and install nextflow in your homedir `/data/users/username`.
       - This pipeline is currently under development and no stable version has been published yet. Running it requires some optimization and it's possible to run into errors. Often, these errors are fixed by reruning/resuming the pipeline. The nf-core community is very helpful and question can be asked thourgh the dedicated [Slack `#circrna` channel](https://nfcore.slack.com/channels/circrna).
       - For consistency, the circRNA pipeline was run with this specific [commit](https://github.com/nf-core/circrna/commit/c29124feafb089482cbb709f01c648b74139460a): `c29124f`
       - Mostly, default parameters are used.
