@@ -4,7 +4,7 @@ This repository contains all scripts and analysis performed for the HOPE project
 The data consists out of a large number of samples form different cohorts (a discovery/HOPE cohort and a validation cohort) and different sequencing runs (see table below). The annotation file `03_data_analysis/00_sample_annotation/sample_annotation.txt` should hold all relevant information. However, some annotation is currently still missing. See also the excel files in Teams `General - Prostate urine cohorte EV`.  
 A paper related to this topic: [Tao et al, Cell Reports Medicine, 2023](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00417-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379123004172%3Fshowall%3Dtrue#%20).
 
-Currently (14/06/2024), there are 284 samples included in the analysis.
+Currently (14/06/2024), there are 284 samples included in the analysis (all in KDI RNA_PROFILING_CANCER).
 
 run_id | nr_samples | sequencing date | analysis batch | remark
 --- | --- | --- | --- | ---
