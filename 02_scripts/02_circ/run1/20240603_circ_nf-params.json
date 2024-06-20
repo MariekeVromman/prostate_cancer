@@ -1,0 +1,19 @@
+{
+    "input": "/data/users/mvromman/projects/03_prostate/20240514_circ_samplesheet.csv",
+    "outdir": "/data/tmp/mvromman/20240514_prostate/20240603_circ/output",
+
+    "tool": "circexplorer2,find_circ,circrna_finder,ciriquant",
+    "module": "circrna_discovery",
+    "bsj_reads": 0,
+    "tool_filter": 0,
+
+    "skip_trimming": false,
+
+    "igenomes_ignore": true,
+    "fasta": "/data/tmp/mvromman/20240514_prostate/references/circ/GRCh38.p14.genome.fa",
+    "gtf": "/data/tmp/mvromman/20240514_prostate/references/circ/gencode.v44.chr_patch_hapl_scaff.annotation.gtf",
+    "species": "hsa",
+    "limitSjdbInsertNsj": 10000000
+  }
+
+
