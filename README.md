@@ -26,6 +26,9 @@ D1745 | 54 samples | 04/04/2024	| run1 | mostly discovery/HOPE cohort (with 8 ov
 > [!WARNING]
 > 18 samples were sequenced twice (F2_ENC, F3_TAL, F4_PIN, F5_BOU, F6_SAL, F8_KAR, F9_RAD, F10_MES, F11_ZIZ, F12_ABE, F13_AUR, F14_RIV, F16_GEN, F17_TRA, F18_THE, F19_TIX, F20_THA, F21_BEN) in run D419-D410 and D376. The fastq file of these samples were merged at the beginning of the analyses and termed 'D419-D410-D376'.
 
+> [!WARNING]  
+>  The circRNA pipeline was run in multiple batches, and I do not know the details of all the output files. Some documentation is available [here](https://nf-co.re/circrna/dev/docs/output) but it has not been updated recently. It seems that some combined/merged files are created before alle tools are run succesfully. Therefore, the cleanest data to use is the data in the `circrna_discovery` directory.
+
 This repository contains 4 folders
 1. **data**  
 This folders contains the output data from mapping the fastq files with STAR and generating counts with FeatureCounts, and the output data from running the circRNA pipeline. As this is a big folder, it is not included in the github repo itself, but it is present on the hard disk. 
